@@ -1,5 +1,70 @@
 body{
-    background: antiquewhite;
+    background: #efcfff;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     height: 100%;
 }
+h1{
+    font-family: "Roboto Thin";
+    color: darkviolet;
+    font-size: 14ex;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: "Roboto Thin";
+    color: darkviolet;
+    font-size: 6ex;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+input{
+    margin: 12px;
+    padding: 16px 20px;
+    width: 18px;
+
+
+
+}
+.vt{
+    font-family: "Roboto Thin";
+    font-size: 3ex;
+    font-weight: 100;
+
+}
+.ch{
+    width: 800px;
+    margin: 30px auto;
+    color:darkviolet;
+    text-align:center;
+}
+
+#chmint{
+    font-family: "Roboto Thin";
+    font-size: 10ex;
+    font-weight: 100;
+}
+#chsec{
+    font-family: "Roboto Thin";
+    font-size: 10ex;
+    font-weight: 100;
+}
+
+
+
+button{
+    color: darkviolet;
+    background-color: #efcfff;
+    border: solid 2px darkviolet;
+    font-size: 3ex;
+    margin: 12px;
+    padding: 19px 12px;
+    width: 180px;
+    cursor: pointer;
+    }
+button:hover{
+    background-color: darkviolet;
+    color: #efcfff;
+}
+
